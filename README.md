@@ -46,7 +46,13 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
+
+### A few of my blog posts:
+
+#### [Step by step Tutorial: React Redux 2022 with hooks](https://javascript.plainenglish.io/step-by-step-tutorial-react-redux-2022-with-hooks-3b5d63b18be9)
+#### [4 Killer Ways to Write TypeScript With React](https://javascript.plainenglish.io/4-killer-ways-to-write-typescript-with-react-6a66b32764f1)
+#### [Deep-Dive into JavaScript Closures: A Step-by-Step Tutorial](https://javascript.plainenglish.io/deep-dive-into-javascript-closures-a-step-by-step-tutorial-89cf0731a4c5)
+
 ---
 
 <details>
