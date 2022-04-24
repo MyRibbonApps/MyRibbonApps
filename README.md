@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Fullstack JavaScript Developer, Technical Copywriter, Saas founder!
-- ✍ You can find my projects [here](https://antonfranzen.dev/)
+- ✍ You can find my website [here](https://antonfranzen.dev/)
 - 🔭 I’m currently working on an open source crypto-currency web app
 - 🌱 I’m currently learning about how browsers works on the deepest level
 - 💬 Ask me about ... Anything
