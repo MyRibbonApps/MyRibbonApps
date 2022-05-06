@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I'm a Fullstack JavaScript Developer, Technical Copywriter, Saas founder!
 - ✍ You can find my website [here](https://antonfranzen.dev/)
 - 🔭 I’m currently working on an open source crypto-currency web app
-- 🌱 I’m currently learning about how browsers works on the deepest level
+- 🌱 I’m currently learning about blockchain development
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I created a saas product e2e with 2 app developers and 1 designer!
 
